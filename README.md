@@ -1,8 +1,6 @@
 # AI_ChatBot_Python
 AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn
-Hey Guys!! I made this contextual chat-bot using Python (mostly libraries like Tensorflow, TFlearn and NLTK)
-
-The contextual chatbot here uses deep learning to 
+Hey Guys!! I made this contextual chat-bot using Python (mostly libraries like Tensorflow, TFlearn and NLTK.
 
 Here, 
 Tensorflow is required to build the graph of the neural network and 
